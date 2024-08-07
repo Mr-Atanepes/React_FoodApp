@@ -1,0 +1,9 @@
+input {
+  padding: 10px;
+  border: 1px solid purple;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
